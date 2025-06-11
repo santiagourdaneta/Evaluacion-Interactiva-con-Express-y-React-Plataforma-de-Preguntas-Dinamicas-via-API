@@ -1,0 +1,13 @@
+[
+  {
+    "tipo": "multiple",
+    "pregunta": "¿Cuál es la capital de Francia?",
+    "opciones": ["Madrid", "París", "Berlín", "Londres"],
+    "respuesta": "París"
+  },
+  {
+    "tipo": "vf",
+    "pregunta": "El agua hierve a 100 grados Celsius.",
+    "respuesta": "Verdadero"
+  }
+]
